@@ -82,6 +82,20 @@ main {
 	font-family: "PT Serif", serif;
 }
 
+.mobile ul li a {
+	font-size: 1.35em;
+	color: #4d1919;
+	font-weight: bold;
+	text-decoration: none;
+	border: 3px solid #4d1919;
+	border-radius: 8px;
+	padding: 5px;
+}
+
+.mobile ul li {
+	margin: 30px 0;
+}
+
 .action a {
 	font-size: 1.35em;
 	color: #4d1919;
