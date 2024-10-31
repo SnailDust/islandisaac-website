@@ -162,6 +162,8 @@ footer p {
 	}
 	
 	#camtips {
+		border-top: 1px solid #000;
+		border-bottom: 1px solid #000;
 		background: linear-gradient(to right, #cbb, #fff);
 		background-color: #fff2f2;
 		padding: 1% 2%;
